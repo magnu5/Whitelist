@@ -24,8 +24,8 @@ fe3.delivery.mp.microsoft.com
 gameserverds.xboxlive.com
 geo-prod.do.dsp.mp.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
-images-eds.xboxlive.com
 images-eds-ssl.xboxlive.com
+images-eds.xboxlive.com
 inference.location.live.net
 instance.mgt.xboxlive.com
 ipv6.msftconnecttest.com
@@ -56,6 +56,9 @@ user.auth.xboxlive.com
 userpresence.xboxlive.com
 userstats.xboxlive.com
 v10.vortex-win.data.microsoft.com
+vodcontent-2003.xboxlive.com
+vodcontent-3001.xboxlive.com
+vodcontent-3004.xboxlive.com
 www.msftconnecttest.com
 www.xboxlive.com
 xbox.ipv6.microsoft.com
