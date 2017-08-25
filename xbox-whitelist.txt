@@ -1,11 +1,15 @@
 2.dl.delivery.mp.microsoft.com
 DB5SCH101110345.wns.windows.com
 DB5SCH103091311.wns.windows.com
+DB5SCH103090616.wns.windows.com
 accounts.xboxlive.com
+achievements.xboxlive.com
 activity.windows.com
+app.getsentry.com
 arc.msn.com
 avty.xboxlive.com
 chatfd.xboxlive.com
+chat1-dal.mixer.com
 client-s.gateway.messenger.live.com
 client.wns.windows.com
 clubhub.xboxlive.com
@@ -15,6 +19,8 @@ continuum.dds.microsoft.com
 db5.licensing.md.mp.microsoft.com.akadns.net
 disc501-prod.do.dsp.mp.microsoft.com
 displaycatalog.mp.microsoft.com
+dist2-ams01.mixer.com
+dist4-hls.mixer.com
 dl.delivery.mp.microsoft.com
 dlassets.xboxlive.com
 dns.msftncsi.com
@@ -23,6 +29,7 @@ eplists.xboxlive.com
 fe3.delivery.mp.microsoft.com
 gameserverds.xboxlive.com
 geo-prod.do.dsp.mp.microsoft.com
+geo.vortex.data.microsoft.com.akadns.net
 geover-prod.do.dsp.mp.microsoft.com
 images-eds-ssl.xboxlive.com
 images-eds.xboxlive.com
@@ -39,6 +46,7 @@ prod.registrar.skype.com
 profile.xboxlive.com
 rta.xboxlive.com
 sessiondirectory.xboxlive.com
+sessiondirectory.gtm.xboxlive.com
 settings-ssl.xboxlive.com
 settings-win.data.microsoft.com
 settings.xboxlive.com
@@ -57,9 +65,12 @@ user.auth.xboxlive.com
 userpresence.xboxlive.com
 userstats.xboxlive.com
 v10.vortex-win.data.microsoft.com
+v20.vortex-win.data.microsoft.com
+video.mixer.com
 vodcontent-2003.xboxlive.com
 vodcontent-3001.xboxlive.com
 vodcontent-3004.xboxlive.com
+web.vortex.data.microsoft.com
 www.msftconnecttest.com
 www.xboxlive.com
 xbox.ipv6.microsoft.com
