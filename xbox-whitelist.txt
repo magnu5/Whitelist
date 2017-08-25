@@ -44,6 +44,7 @@ settings-win.data.microsoft.com
 settings.xboxlive.com
 social.xboxlive.com
 storeedgefd.dsx.mp.microsoft.com
+thumbs.mixer.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 titlestorage.xboxlive.com
@@ -63,5 +64,6 @@ www.msftconnecttest.com
 www.xboxlive.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
 xnotify.xboxlive.com
 xsts.auth.xboxlive.com
