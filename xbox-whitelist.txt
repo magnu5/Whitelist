@@ -1,5 +1,6 @@
 2.dl.delivery.mp.microsoft.com
 DB5SCH101110345.wns.windows.com
+DB5SCH103091311.wns.windows.com
 accounts.xboxlive.com
 activity.windows.com
 arc.msn.com
@@ -24,6 +25,7 @@ gameserverds.xboxlive.com
 geo-prod.do.dsp.mp.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
 images-eds.xboxlive.com
+images-eds-ssl.xboxlive.com
 inference.location.live.net
 instance.mgt.xboxlive.com
 ipv6.msftconnecttest.com
@@ -48,6 +50,7 @@ titlestorage.xboxlive.com
 tournamentshub.xboxlive.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 update-cdn.xboxlive.com
+update.xboxlive.com
 update.xboxlive.com.akadns.net
 user.auth.xboxlive.com
 userpresence.xboxlive.com
