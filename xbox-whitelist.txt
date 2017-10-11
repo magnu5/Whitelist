@@ -70,6 +70,7 @@ sessiondirectory.xboxlive.com
 settings-ssl.xboxlive.com
 settings-win.data.microsoft.com
 settings.xboxlive.com
+skypexbox.skype.com
 sls.update.microsoft.com
 social.xboxlive.com
 storeedgefd.dsx.mp.microsoft.com
