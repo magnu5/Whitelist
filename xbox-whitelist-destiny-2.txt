@@ -1,6 +1,17 @@
+cdn.deadorbit.net
 www1.signon.deadorbit.net
+www2.signon.deadorbit.net
+www3.signon.deadorbit.net
+www4.signon.deadorbit.net
+www5.signon.deadorbit.net
+www6.signon.deadorbit.net
 www7.signon.deadorbit.net
 www8.signon.deadorbit.net
 www1.signon.gravityshavings.net
+www2.signon.gravityshavings.net
+www3.signon.gravityshavings.net
+www4.signon.gravityshavings.net
+www5.signon.gravityshavings.net
+www6.signon.gravityshavings.net
 www7.signon.gravityshavings.net
 www8.signon.gravityshavings.net
