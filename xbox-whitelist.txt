@@ -85,6 +85,7 @@ sls.update.microsoft.com
 social.xboxlive.com
 storeedgefd.dsx.mp.microsoft.com
 thumbs.mixer.com
+titlehub.xboxlive.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 titlestorage.xboxlive.com
