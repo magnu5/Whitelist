@@ -66,6 +66,7 @@ licensing.mp.microsoft.com
 licensing.xboxlive.com
 login.live.com
 mediahub.xboxlive.com
+mobile.pipe.aria.microsoft.com
 notify.xboxlive.com
 networktest.xboxlive.com
 peoplehub.xboxlive.com
