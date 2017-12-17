@@ -62,6 +62,7 @@ inference.location.live.net
 instance.mgt.xboxlive.com
 ipv6.msftconnecttest.com
 kv501-prod.do.dsp.mp.microsoft.com
+leaderboards.xboxlive.com
 licensing.mp.microsoft.com
 licensing.xboxlive.com
 login.live.com
