@@ -113,6 +113,7 @@ www.msftconnecttest.com
 www.msftncsi.com
 www.xboxlive.com
 xbox.ipv6.microsoft.com
+xbox-mbr.xboxlive.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
