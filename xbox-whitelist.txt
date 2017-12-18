@@ -75,6 +75,7 @@ peoplehub.xboxlive.com
 privacy.xboxlive.com
 prod.registrar.skype.com
 profile.xboxlive.com
+register.cdpcs.microsoft.com
 rta.xboxlive.com
 sessiondirectory.gtm.xboxlive.com
 sessiondirectory.xboxlive.com
