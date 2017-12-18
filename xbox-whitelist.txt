@@ -1,4 +1,5 @@
 2.dl.delivery.mp.microsoft.com
+7.assets1.xboxlive.com
 accounts.xboxlive.com
 achievements.xboxlive.com
 activity.windows.com
@@ -114,6 +115,7 @@ xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
+x1ds.xboxlive.com
 xncsi.xboxlive.com
 xnotify.xboxlive.com
 xsts.auth.xboxlive.com
