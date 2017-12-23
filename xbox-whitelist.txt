@@ -1,5 +1,8 @@
 2.dl.delivery.mp.microsoft.com
 7.assets1.xboxlive.com
+a-0001.a-msedge.net
+a-0003.a-msedge.net
+a-0011.a-msedge.net
 accounts.xboxlive.com
 achievements.xboxlive.com
 activity.windows.com
@@ -8,6 +11,10 @@ arc.msn.com
 assets1.xboxlive.com
 attestation.xboxlive.com
 avty.xboxlive.com
+bat.bing.com
+c.bing.com
+c.msn.com
+cache.datamart.windows.com
 DB5SCH101110315.wns.windows.com
 DB5SCH101110345.wns.windows.com
 DB6SCH102090203.wns.windows.com
@@ -39,6 +46,7 @@ continuum.dds.microsoft.com
 ctldl.windowsupdate.com
 db5.licensing.md.mp.microsoft.com.akadns.net
 db5.notify.windows.com
+db5.settings.data.microsoft.com
 def-vef.xboxlive.com
 device.auth.xboxlive.com
 disc501-prod.do.dsp.mp.microsoft.com
@@ -47,10 +55,13 @@ dist2-ams01.mixer.com
 dist4-hls.mixer.com
 dl.delivery.mp.microsoft.com
 dlassets.xboxlive.com
+dmd.metaservices.microsoft.com
 dns.msftncsi.com
+ecn.dev.virtualearth.net
 editorial.xboxlive.com
 eds.xboxlive.com
 eplists.xboxlive.com
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
 gameserverds.xboxlive.com
 geo-prod.do.dsp.mp.microsoft.com
@@ -69,8 +80,14 @@ licensing.xboxlive.com
 login.live.com
 mediahub.xboxlive.com
 mobile.pipe.aria.microsoft.com
-notify.xboxlive.com
+msftncsi.com
 networktest.xboxlive.com
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com
+notify.xboxlive.com
+officeclient.microsoft.com
+onedrive-collection.device.mobileengagement.windows.net
+otf.msn.com
 peoplehub.xboxlive.com
 privacy.xboxlive.com
 prod.registrar.skype.com
@@ -85,7 +102,11 @@ settings.xboxlive.com
 skypexbox.skype.com
 sls.update.microsoft.com
 social.xboxlive.com
+storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
+sysctl.org
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
 thumbs.mixer.com
 titlehub.xboxlive.com
 title.auth.xboxlive.com
@@ -99,6 +120,7 @@ update.xboxlive.com.akadns.net
 user.auth.xboxlive.com
 userpresence.xboxlive.com
 userstats.xboxlive.com
+vortex.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 video.mixer.com
