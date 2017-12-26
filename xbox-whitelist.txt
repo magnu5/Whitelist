@@ -37,6 +37,7 @@ chat1-dal.mixer.com
 chatfd.xboxlive.com
 cert.mgt.xboxlive.com
 client-s.gateway.messenger.live.com
+client-strings.xboxlive.com
 client.wns.windows.com
 clubhub.xboxlive.com
 collections.mp.microsoft.com
@@ -61,6 +62,8 @@ ecn.dev.virtualearth.net
 editorial.xboxlive.com
 eds.xboxlive.com
 eplists.xboxlive.com
+fdp-xboxone-ope-game.fromsoftware-game.net
+fdp-xboxone-ope-login.fromsoftware-game.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
 gameserverds.xboxlive.com
@@ -112,6 +115,7 @@ titlehub.xboxlive.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 titlestorage.xboxlive.com
+titlestoragecus0207.blob.core.windows.net
 tournamentshub.xboxlive.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 update-cdn.xboxlive.com
