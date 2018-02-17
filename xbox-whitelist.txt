@@ -32,6 +32,7 @@ DB5SCH101110441.wns.windows.com
 DB5SCH101110627.wns.windows.com
 DB5SCH101101523.wns.windows.com
 DB5SCH103101705.wns.windows.com
+db6sch102090911.wns.windows.com
 db6sch102091205.wns.windows.com
 chat1-dal.mixer.com
 chatfd.xboxlive.com
