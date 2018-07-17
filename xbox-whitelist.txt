@@ -40,6 +40,7 @@ cert.mgt.xboxlive.com
 client-s.gateway.messenger.live.com
 client-strings.xboxlive.com
 client.wns.windows.com
+clientconfig.passport.net
 clubhub.xboxlive.com
 collections.mp.microsoft.com
 comments.xboxlive.com
