@@ -64,6 +64,7 @@ ecn.dev.virtualearth.net
 editorial.xboxlive.com
 eds.xboxlive.com
 eplists.xboxlive.com
+epix.xbox.com
 fdp-xboxone-ope-game.fromsoftware-game.net
 fdp-xboxone-ope-login.fromsoftware-game.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
@@ -86,6 +87,7 @@ login.live.com
 mediahub.xboxlive.com
 mobile.pipe.aria.microsoft.com
 msftncsi.com
+msnvidweb.vo.msecnd.net
 networktest.xboxlive.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
@@ -98,7 +100,9 @@ privacy.xboxlive.com
 prod.registrar.skype.com
 profile.xboxlive.com
 register.cdpcs.microsoft.com
+rad.msn.com
 rta.xboxlive.com
+rpt.rad.msn.com
 sessiondirectory.gtm.xboxlive.com
 sessiondirectory.xboxlive.com
 settings-ssl.xboxlive.com
