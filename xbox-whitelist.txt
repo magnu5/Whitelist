@@ -85,6 +85,7 @@ licensing.mp.microsoft.com
 licensing.xboxlive.com
 login.live.com
 mediahub.xboxlive.com
+mixer.com
 mobile.pipe.aria.microsoft.com
 msftncsi.com
 msnvidweb.vo.msecnd.net
@@ -111,6 +112,7 @@ settings.xboxlive.com
 skypexbox.skype.com
 sls.update.microsoft.com
 social.xboxlive.com
+static.mixer.com
 storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 sysctl.org
@@ -127,6 +129,7 @@ tsfe.trafficshaping.dsp.mp.microsoft.com
 update-cdn.xboxlive.com
 update.xboxlive.com
 update.xboxlive.com.akadns.net
+uploads.mixer.com
 user.auth.xboxlive.com
 userpresence.xboxlive.com
 userstats.xboxlive.com
@@ -134,6 +137,7 @@ vortex.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 video.mixer.com
+videocdn.mixer.com
 vodcontent-2003.xboxlive.com
 vodcontent-3001.xboxlive.com
 vodcontent-3004.xboxlive.com
