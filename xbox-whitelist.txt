@@ -69,6 +69,7 @@ fdp-xboxone-ope-game.fromsoftware-game.net
 fdp-xboxone-ope-login.fromsoftware-game.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
+gameart.mixer.com
 gameserverds.xboxlive.com
 geo-prod.do.dsp.mp.microsoft.com
 geo.vortex.data.microsoft.com.akadns.net
