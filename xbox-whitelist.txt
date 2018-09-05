@@ -57,7 +57,7 @@ db5.notify.windows.com
 db5.settings.data.microsoft.com
 def-vef.xboxlive.com
 device.auth.xboxlive.com
-dev.virtualearth.net ecn.dev.virtualearth.net
+dev.virtualearth.net
 disc501-prod.do.dsp.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 dist2-ams01.mixer.com
