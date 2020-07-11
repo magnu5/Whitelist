@@ -1,0 +1,3 @@
+fw.ota.homesmart.ikea.net
+a1nvlh0fc0asuq.iot.eu-central-1.amazonaws.com
+webhook.logentries.com
